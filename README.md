@@ -7,3 +7,6 @@
 
 3-Used Cars: In this project, I created a model to forecast used car prices based on brand, model year, driven mileage, engine power, and automobile maximum power.
 <br />
+
+4-Credit Customers: In this project, I developed a classification model to predict whether or not a consumer should be offered credit depending on a variety of factors.
+<br />
