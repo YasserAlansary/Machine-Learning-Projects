@@ -1,4 +1,4 @@
-# Machine-Learning-Projects-
+# Machine-Learning-Projects
 1- Airline passenger satisfaction: In this project, I created a classification model to assist airlines in determining whether or not their customers will be satisfied after the journey based on 20 factors such as gender, age, distance, trip type, and customer class.
 <br />
 
