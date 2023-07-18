@@ -10,3 +10,6 @@
 
 4-Credit Customers: In this project, I developed a classification model to predict whether or not a consumer should be offered credit depending on a variety of factors.
 <br />
+
+5- Food Ingredients: This model's primary objective is allergen detection, which determines if an item contains allergens or not and is used to create recommender systems for those with certain dietary restrictions or allergies.
+<br />
